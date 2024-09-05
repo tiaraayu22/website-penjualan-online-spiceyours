@@ -1,1 +1,6 @@
-
+folder views berisi:
+- auth
+- errors
+- themes
+- index.html
+- welcome_message.php
